@@ -1,0 +1,18 @@
+# ninja log v5
+10	362	7193557915600666	CMakeFiles/EjerciciosProgra.dir/Persona.cpp.obj	505998b27fc960f6
+26	93	7193557912886838	CMakeFiles/EjerciciosProgra.dir/matematica.cpp.obj	90fd71e7dd66f004
+17	464	7193557916620200	CMakeFiles/EjerciciosProgra.dir/Estudiante.cpp.obj	9f3ef76c8eef8e3d
+4	482	7193557916795014	CMakeFiles/EjerciciosProgra.dir/main.cpp.obj	88782759e553d6c0
+22	92	7193557912896836	CMakeFiles/EjerciciosProgra.dir/operaciones.cpp.obj	52f694119dccfb23
+0	2496	7193578364594027	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	2a2983da804cf42a
+5	2544	7193578365022718	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	931979bb6ef45e01
+2545	3211	7193578371757884	_deps/fmt-build/libfmtd.a	bd357bc7847c03fb
+12	71	7193579015757906	CMakeFiles/main.dir/funciones.cpp.obj	4329880afab823a2
+9	302	7193579018059948	CMakeFiles/main.dir/Persona.cpp.obj	237566b263769799
+20	412	7193579019161897	CMakeFiles/main.dir/matematica.cpp.obj	1e686dfcfc41d1eb
+16	420	7193579019246037	CMakeFiles/main.dir/Estudiante.cpp.obj	fa84c58c25889de9
+3	563	7193580689544747	CMakeFiles/main.dir/main.cpp.obj	e38f217e00af3cd0
+4	554	7193589500759052	CMakeFiles/main.dir/main.cpp.obj	e38f217e00af3cd0
+11	360	7193637479384486	CMakeFiles/main.dir/Persona.cpp.obj	237566b263769799
+15	473	7193637480520805	CMakeFiles/main.dir/Estudiante.cpp.obj	fa84c58c25889de9
+4	768	7193637483468169	CMakeFiles/main.dir/main.cpp.obj	e38f217e00af3cd0

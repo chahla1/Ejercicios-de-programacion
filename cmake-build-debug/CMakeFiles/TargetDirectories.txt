@@ -1,0 +1,6 @@
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

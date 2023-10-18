@@ -1,0 +1,21 @@
+# ninja log v5
+0	39	7193577332116934	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9746344fad72c834
+0	39	7193577332116934	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9746344fad72c834
+40	4548	7193577377201054	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	3ecc1751a131d16f
+40	4548	7193577377201054	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	3ecc1751a131d16f
+4548	4645	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	38550d84fe7d165f
+4548	4645	0	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	38550d84fe7d165f
+4645	4685	7193577378558483	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	954ba4da9b250a4b
+4645	4685	7193577378558483	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	954ba4da9b250a4b
+4685	4721	7193577378929278	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	9a91b5a16c9dbd4c
+4685	4721	7193577378929278	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	9a91b5a16c9dbd4c
+4721	4757	7193577379293800	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	763c3e1d55cc74a8
+4721	4757	7193577379293800	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	763c3e1d55cc74a8
+4757	4796	7193577379680319	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	24a63ba1afb83e31
+4757	4796	7193577379680319	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	24a63ba1afb83e31
+4796	4834	7193577380057624	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	9d05bcecc516504f
+4796	4834	7193577380057624	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	9d05bcecc516504f
+4834	4883	7193577380557086	CMakeFiles/fmt-populate-complete	965c3f54b31681dc
+4834	4883	7193577380557086	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	965c3f54b31681dc
+4834	4883	7193577380557086	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	965c3f54b31681dc
+4834	4883	7193577380557086	C:/Users/chahla/CLionProjects/EjerciciosProgra/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	965c3f54b31681dc
